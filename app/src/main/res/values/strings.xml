@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tampere Weather Forecast</string>
+    <string name="show_forecast">Show Forecast</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back</string>
+    <string name="LOCATION_NOT_KNOWN" >Location not known</string>
+    <string name="tampere" translatable="false">Tampere</string>
+</resources>

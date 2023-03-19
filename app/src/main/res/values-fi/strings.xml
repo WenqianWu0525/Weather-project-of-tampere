@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tampere sääennuste</string>
+    <string name="show_forecast">näytä sääennuste</string>
+    <string name="refresh">virkistämään</string>
+    <string name="back">palata</string>
+    <string name="LOCATION_NOT_KNOWN">kohde tuntematon</string>
+</resources>

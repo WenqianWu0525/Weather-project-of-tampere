@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">坦佩雷天气预报</string>
+    <string name="show_forecast">显示天气预报</string>
+    <string name="refresh">刷新</string>
+    <string name="back">返回</string>
+    <string name="LOCATION_NOT_KNOWN">目标不确定</string>
+</resources>
